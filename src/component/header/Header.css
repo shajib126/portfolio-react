@@ -1,0 +1,31 @@
+.logo {
+	border: 1px solid greenyellow;
+	padding: 0px 35px;
+	border-radius: 60px 0px 60px 0px;
+	box-shadow: 1px 1px 2px 1px rgb(195, 235, 137);
+}
+.logo h1 {
+	color: rgb(124, 236, 236);
+	font-size: 40px;
+}
+.header {
+	display: flex;
+	justify-content: space-between;
+}
+ol {
+	display: flex;
+	justify-content: space-between;
+}
+ol li {
+	margin-right: 50px;
+	font-size: 22px;
+	transition: ease-in-out 0.5s;
+}
+li:hover {
+	border: 1px solid green;
+	padding: 10px;
+}
+ol li a {
+	color: white;
+	text-decoration: none;
+}

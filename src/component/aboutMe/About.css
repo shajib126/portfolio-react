@@ -1,0 +1,66 @@
+.about_me {
+	/* display: flex;
+	font-size: 40px; */
+}
+.about_me h1 {
+	color: rgb(0, 247, 255);
+	font-size: 50px;
+}
+.about h2 {
+	color: rgb(221, 208, 94);
+	font-size: 40px;
+}
+.about h3 {
+	font-size: 25px;
+	color: gray;
+}
+.about_me_detail {
+	display: flex;
+	justify-content: space-between;
+}
+.about_me_detail img {
+	width: 20vw;
+	box-sizing: border-box;
+	border-radius: 10px;
+	box-shadow: 25px 5px 20px 2px rgba(2, 2, 31, 0.472);
+
+	border: 1px solid black;
+}
+
+.about_me_paragraph p {
+	color: gray;
+	font-size: 25px;
+	line-height: 20px;
+}
+.about_me_paragraph h4 {
+	font-size: 25px;
+	color: khaki;
+}
+.skill_tech {
+	display: flex;
+	padding: 10px;
+	line-height: 45px;
+}
+.skill_tech ol {
+	display: inline;
+	list-style-type: circle;
+}
+.group-btn {
+	width: 100vw;
+}
+.group-btn button {
+	background-color: rgba(28, 223, 132, 0.397);
+	padding: 15px 20px;
+	border: none;
+}
+.group-btn button a {
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+.online_judge {
+	/* border: 1px dashed white; */
+	background-color: #343f56;
+	padding: 5px 10px;
+}

@@ -1,0 +1,11 @@
+.social_list {
+	height: 5vh;
+}
+.social_list img {
+	width: 1.5vw;
+	transition: ease 0.5s;
+}
+.social_list img:hover {
+	width: 2vw;
+	transform: rotate(360deg);
+}

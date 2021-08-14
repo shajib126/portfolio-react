@@ -1,0 +1,34 @@
+.myself {
+	/* border: 1px solid black; */
+	margin: 100px auto;
+	width: 60%;
+	padding: 55px;
+	justify-content: center;
+	line-height: 35px;
+	background-image: url(https://www.pngkey.com/png/full/499-4991515_mbraining-nlp-hypnotherapy-timeline-therapy-floral-frame-template.png);
+	background-position: top;
+	background-size: 50vw 50vh;
+	background-repeat: no-repeat;
+	transition: ease-in-out 0.6s;
+}
+.myself:hover {
+	padding: 100px;
+	cursor: zoom-in;
+}
+.myself h4 {
+	color: burlywood;
+	font-size: 40px;
+}
+.myself h1 {
+	font-size: 80px;
+	color: rgb(22, 231, 231);
+	letter-spacing: 10px;
+}
+.myself h2 {
+	font-size: 40px;
+	color: rgb(223, 226, 223);
+}
+.myself p {
+	font-size: 25px;
+	color: khaki;
+}
